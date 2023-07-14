@@ -1,0 +1,2 @@
+Prefix plugins/XMLStyle/example/
+Plugin XMLStyle inputfile parameters.txt outputfile style.xml
